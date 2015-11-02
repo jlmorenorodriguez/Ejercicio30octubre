@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ejercicio 30 de octubre</string>
+    <string name="edtNombre">Nombre</string>
+    <string name="edtEdad">Edad</string>
+    <string name="btnComprobar">Comprobar</string>
+    <string name="chk1">Futbol</string>
+    <string name="chk2">Informatica</string>
+    <string name="chk3">Baloncesto</string>
+    <string name="chk4">Musica</string>
+    <string name="chk5">Animales</string>
+    <string name="chk6">Videojuegos</string>
+    <string name="btnBorrar">Borrar</string>
+    <string name="btnSend">Send</string>
+    <string name="msgError">Por favor, introduzca un valor numerico.</string>
+</resources>
